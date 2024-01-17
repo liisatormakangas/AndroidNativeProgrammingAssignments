@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment2_BMI</string>
+    <string name="body_mass_index">Body mass index</string>
+    <string name="body_mass_result_text">Body mass index is %1$s</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+</resources>
