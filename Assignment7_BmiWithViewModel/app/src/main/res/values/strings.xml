@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment7_BmiWithViewModel</string>
+    <string name="body_mass_index">Body mass index</string>
+    <string name="bmi">Body mass index is %s</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+</resources>
